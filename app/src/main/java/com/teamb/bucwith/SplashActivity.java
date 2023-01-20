@@ -21,6 +21,6 @@ public class SplashActivity extends AppCompatActivity {
             }
 
             // 웹뷰가 표시되기 전에 스플래시가 표시될 시간. ms단위
-        }, 4000);
+        }, 1000);
     }
 }
